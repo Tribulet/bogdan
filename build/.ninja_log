@@ -1,0 +1,16 @@
+# ninja log v5
+1	43	1654964092621712234	CMakeFiles/bogdan.dir/src/position.cpp.o	3b3f120956109ae8
+0	322	1654964092917712460	CMakeFiles/bogdan.dir/src/food.cpp.o	ae86d406aa19c1c6
+0	329	1654964092925712465	CMakeFiles/bogdan.dir/src/field.cpp.o	81a79b6d7d788b1a
+1	240	1654964122633735120	CMakeFiles/bogdan.dir/src/field.cpp.o	81a79b6d7d788b1a
+1	24	1654964154925759746	CMakeFiles/bogdan.dir/src/position.cpp.o	3b3f120956109ae8
+0	253	1654964155153759920	CMakeFiles/bogdan.dir/src/field.cpp.o	81a79b6d7d788b1a
+1	265	1654964155165759929	CMakeFiles/bogdan.dir/src/snake.cpp.o	928195a6bb7794db
+1	282	1654964155181759941	CMakeFiles/bogdan.dir/src/food.cpp.o	ae86d406aa19c1c6
+1	290	1654964155189759948	CMakeFiles/bogdan.dir/src/main.cpp.o	5d5680f070d133e2
+290	349	1654964155249759993	bogdan	a08c25e84166c1b3
+1	280	1654964381481932511	CMakeFiles/bogdan.dir/src/food.cpp.o	ae86d406aa19c1c6
+1	296	1654964381501932526	CMakeFiles/bogdan.dir/src/field.cpp.o	81a79b6d7d788b1a
+2	330	1654964381533932550	CMakeFiles/bogdan.dir/src/main.cpp.o	5d5680f070d133e2
+2	338	1654964381541932557	CMakeFiles/bogdan.dir/src/snake.cpp.o	928195a6bb7794db
+338	411	1654964381613932612	bogdan	a08c25e84166c1b3

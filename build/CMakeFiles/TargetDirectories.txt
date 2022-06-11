@@ -1,0 +1,3 @@
+/home/modeck/dev/cpp/bogdan/build/CMakeFiles/rebuild_cache.dir
+/home/modeck/dev/cpp/bogdan/build/CMakeFiles/edit_cache.dir
+/home/modeck/dev/cpp/bogdan/build/CMakeFiles/bogdan.dir

@@ -1,0 +1,3 @@
+C:/dev/bogdan/CMakeFiles/bogdan.dir
+C:/dev/bogdan/CMakeFiles/ALL_BUILD.dir
+C:/dev/bogdan/CMakeFiles/ZERO_CHECK.dir

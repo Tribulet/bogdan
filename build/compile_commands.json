@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/modeck/dev/cpp/bogdan/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -I/home/modeck/dev/cpp/bogdan/include -g -o CMakeFiles/bogdan.dir/src/field.cpp.o -c /home/modeck/dev/cpp/bogdan/src/field.cpp",
+  "file": "/home/modeck/dev/cpp/bogdan/src/field.cpp"
+},
+{
+  "directory": "/home/modeck/dev/cpp/bogdan/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -I/home/modeck/dev/cpp/bogdan/include -g -o CMakeFiles/bogdan.dir/src/food.cpp.o -c /home/modeck/dev/cpp/bogdan/src/food.cpp",
+  "file": "/home/modeck/dev/cpp/bogdan/src/food.cpp"
+},
+{
+  "directory": "/home/modeck/dev/cpp/bogdan/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -I/home/modeck/dev/cpp/bogdan/include -g -o CMakeFiles/bogdan.dir/src/position.cpp.o -c /home/modeck/dev/cpp/bogdan/src/position.cpp",
+  "file": "/home/modeck/dev/cpp/bogdan/src/position.cpp"
+},
+{
+  "directory": "/home/modeck/dev/cpp/bogdan/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -I/home/modeck/dev/cpp/bogdan/include -g -o CMakeFiles/bogdan.dir/src/snake.cpp.o -c /home/modeck/dev/cpp/bogdan/src/snake.cpp",
+  "file": "/home/modeck/dev/cpp/bogdan/src/snake.cpp"
+},
+{
+  "directory": "/home/modeck/dev/cpp/bogdan/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -I/home/modeck/dev/cpp/bogdan/include -g -o CMakeFiles/bogdan.dir/src/main.cpp.o -c /home/modeck/dev/cpp/bogdan/src/main.cpp",
+  "file": "/home/modeck/dev/cpp/bogdan/src/main.cpp"
+}
+]
